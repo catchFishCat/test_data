@@ -33,21 +33,3 @@ Columns: `test_id`, `test_name`, `min`, `max`, `mean`, `median`, `std`, `range`
 
 ### Raw Data Files
 Columns: `TestID`, `TestName`, `Loop`, `Late(ns)`
-
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@dataset{bc_latency_test_data,
-  author = {catchFishCat},
-  title = {BC Latency Test Data},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/catchFishCat/test_data}
-}
-```
-
-## Contact
-
-catchFishCat - https://github.com/catchFishCat
