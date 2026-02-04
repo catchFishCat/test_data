@@ -1,0 +1,9 @@
+test_id,test_name,min,max,mean,median,std,range
+1,Legacy BC Time-to-Next Message,0,248,124.192,128.0,73.89798405943188,248
+2,Legacy BC Frame Auto-Repeat,0,224,112.0,112.0,73.3578992432402,224
+3,Legacy BC Frame Time Remaining,0,224,112.0,112.0,73.3578992432402,224
+4,Legacy BC Response Timeout,28,188,113.0,118.0,75.37029043781563,160
+5,Enhanced BC Time-to-Next Message,0,248,124.192,128.0,73.89798405943188,248
+6,Enhanced BC DLY (Delay) Instruct,0,248,124.192,128.0,73.89798405943188,248
+7,Enhanced BC Frame Timer,0,224,112.0,112.0,73.3578992432402,224
+10,Enhanced BC Watchdog,0,224,112.0,112.0,73.3578992432402,224
